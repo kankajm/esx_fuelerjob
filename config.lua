@@ -3,7 +3,7 @@ Config.DrawDistance               = 100.0
 Config.MaxInService               = -1
 Config.EnablePlayerManagement     = true
 Config.EnableSocietyOwnedVehicles = false
-Config.Locale                     = 'fr'
+Config.Locale                     = 'cs'
 
 Config.Zones = {
 
@@ -11,7 +11,7 @@ Config.Zones = {
 		Pos   = {x = 696.413, y = 2889.107, z = 49.0},
 		Size  = {x = 10.0, y = 10.0, z = 2.0},
 		Color = {r = 0, g = 0, b = 0},
-		Name  = "Récolte du pétroles",
+		Name  = "Sklizen oleje",
 		Type  = 1
 	},
 
@@ -20,7 +20,7 @@ Config.Zones = {
 		Pos   = {x = 2746.750, y = 1653.339, z = 23.0},
 		Size  = {x = 4.0, y = 4.0, z = 1.0},
 		Color = {r = 136, g = 243, b = 216},
-		Name  = "Traitement du pétrole",
+		Name  = "Zpracovani oleje",
 		Type  = 1
 	},
 
@@ -28,7 +28,7 @@ Config.Zones = {
 		Pos   = {x = 2765.624, y = 1709.929, z = 23.0},
 		Size  = {x = 4.0, y = 4.0, z = 1.0},
 		Color = {r = 136, g = 243, b = 216},
-		Name  = "Traitement du pétrole raffiné",
+		Name  = "Rafinovane zpracováni ropy",
 		Type  = 1
 	},
 	
@@ -36,7 +36,7 @@ Config.Zones = {
 		Pos   = {x = 3532.0, y = 3672.900, z = 33.0},
 		Size  = {x = 4.5, y = 4.5, z = 1.0},
 		Color = {r = 136, g = 243, b = 216},
-		Name  = "Vente des produits",
+		Name  = "Prodej vyrobku",
 		Type  = 1
 	},
 
@@ -44,7 +44,7 @@ Config.Zones = {
 		Pos   = {x = 2890.645, y = 4391.536, z = 49.4},
 		Size  = {x = 2.0, y = 2.0, z = 1.0},
 		Color = {r = 136, g = 243, b = 216},
-		Name  = "Point d'action",
+		Name  = "Akcni bod",
 		Type  = 27
 	 },
 	  
@@ -52,7 +52,7 @@ Config.Zones = {
 		Pos   = {x = 2899.537, y = 4398.668, z = 49.4},
 		Size = {x = 2.0, y = 2.0, z = 1.0},
 		Color = {r = 136, g = 243, b = 216},
-		Name  = "Garage véhicule",
+		Name  = "Garaz pro vozidla",
 		Type  = 27
 	},
 
@@ -68,7 +68,7 @@ Config.Zones = {
 		Pos   = {x = 2909.202, y = 4365.562, z = 49.4},
 		Size  = {x = 5.0, y = 5.0, z = 1.0},
 		Color = {r = 255, g = 0, b = 0},
-		Name  = "Ranger son véhicule",
+		Name  = "Vlozeni vozidla do garaze",
 		Type  = 27
 	}
 

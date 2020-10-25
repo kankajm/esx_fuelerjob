@@ -1,6 +1,7 @@
 -----------------------------------------
 -- Created and modify by L'ile Légale RP
 -- SenSi and Kaminosekai
+-- Česká verze Jaroslav Kaňka.
 -----------------------------------------
 
 
