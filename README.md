@@ -1,5 +1,7 @@
 # esx_fuelerjob
 
+Česká verze scriptu
+
 ## Preview
 
 https://www.youtube.com/watch?v=-nQdRG7seSk
